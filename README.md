@@ -12,5 +12,6 @@ Original source: [YouTube video](https://www.youtube.com/watch?v=OMDDqxL9RVM&lis
 ## Credits
 * Mod created by Galiಠth.
 * Original source was shared by Max Games R.S. through the YouTube video linked above.
+* V2 file by **gstarthefirst** from Discord.
 
 All rights belong to their respective owners.
