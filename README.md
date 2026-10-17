@@ -1,6 +1,9 @@
 # PlesiomawMouth_Archive
 ## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/PlesiomawMouth_Archive/latest?style=flat-square&color=d81b60&logo=github)
-### This mod add few creature part
+### This mod add few creature parts
+* 1 detail
+* 1 grasper
+* 4 mouth
 
 <img width="1440" height="900" alt="hjzuuzi" src="https://github.com/user-attachments/assets/a6eb9539-d701-442a-ae53-5f68109b4613" />
 
